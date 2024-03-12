@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atlas.Logger/1.0.0": {
+        "runtime": {
+          "Atlas.Logger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atlas.Logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
