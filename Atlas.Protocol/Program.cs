@@ -3,7 +3,6 @@
 using Atlas.Protocol;
 
 
-ServerboundPacket packet = new();
+ProtocolInfo member = new(47);
 
-packet.Id = 0x00;
-packet.Mode = Atlas.Protocol.Api.PacketMode.Ping;
+new Protocol47();

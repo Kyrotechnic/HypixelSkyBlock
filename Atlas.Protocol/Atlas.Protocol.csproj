@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Atlas.Logger\Atlas.Logger.csproj" />
+    <ProjectReference Include="..\Atlas.DataTypes\Atlas.DataTypes.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

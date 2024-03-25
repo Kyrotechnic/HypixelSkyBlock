@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v7.0": {
       "Atlas.Protocol/1.0.0": {
         "dependencies": {
+          "Atlas.DataTypes": "1.0.0",
           "Atlas.Logger": "1.0.0"
         },
         "runtime": {
           "Atlas.Protocol.dll": {}
+        }
+      },
+      "Atlas.DataTypes/1.0.0": {
+        "runtime": {
+          "Atlas.DataTypes.dll": {}
         }
       },
       "Atlas.Logger/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "Atlas.Protocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Atlas.DataTypes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

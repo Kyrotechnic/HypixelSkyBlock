@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "Atlas.DataTypes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Atlas.DataTypes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Atlas.DataTypes.dll": {}
+        }
+      },
       "Atlas.Logger/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Atlas.DataTypes/1.0.0": {
+      "type": "project",
+      "path": "../Atlas.DataTypes/Atlas.DataTypes.csproj",
+      "msbuildProject": "../Atlas.DataTypes/Atlas.DataTypes.csproj"
+    },
     "Atlas.Logger/1.0.0": {
       "type": "project",
       "path": "../Atlas.Logger/Atlas.Logger.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Atlas.DataTypes >= 1.0.0",
       "Atlas.Logger >= 1.0.0"
     ]
   },
@@ -51,6 +67,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.DataTypes\\Atlas.DataTypes.csproj": {
+              "projectPath": "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.DataTypes\\Atlas.DataTypes.csproj"
+            },
             "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.Logger\\Atlas.Logger.csproj": {
               "projectPath": "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.Logger\\Atlas.Logger.csproj"
             }

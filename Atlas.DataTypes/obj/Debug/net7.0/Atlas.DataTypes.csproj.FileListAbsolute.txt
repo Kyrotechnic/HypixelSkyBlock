@@ -1,0 +1,15 @@
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\bin\Debug\net7.0\Atlas.DataTypes.exe
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\bin\Debug\net7.0\Atlas.DataTypes.deps.json
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\bin\Debug\net7.0\Atlas.DataTypes.runtimeconfig.json
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\bin\Debug\net7.0\Atlas.DataTypes.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\bin\Debug\net7.0\Atlas.DataTypes.pdb
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.csproj.AssemblyReference.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.AssemblyInfoInputs.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.AssemblyInfo.cs
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\refint\Atlas.DataTypes.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.pdb
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\Atlas.DataTypes.genruntimeconfig.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.DataTypes\obj\Debug\net7.0\ref\Atlas.DataTypes.dll
