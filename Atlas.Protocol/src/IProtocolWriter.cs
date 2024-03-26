@@ -35,7 +35,7 @@ public abstract class IProtocolWriter
         return packet;
     }
 
-    public IBuffer UseWriter<T>(T packetClass, IBuffer buffer) where T : Handle<T>
+    public IBuffer UseWriter<T>(Handle<T> packetClass, IBuffer buffer) where T : Handle<T>
     {
         int id = packetClass.Id;
         PacketMode mode = packetClass.Mode;

@@ -9,7 +9,9 @@
       "Atlas.Protocol/1.0.0": {
         "dependencies": {
           "Atlas.DataTypes": "1.0.0",
-          "Atlas.Logger": "1.0.0"
+          "Atlas.Json": "1.0.0",
+          "Atlas.Logger": "1.0.0",
+          "Atlas.Minecraft": "1.0.0"
         },
         "runtime": {
           "Atlas.Protocol.dll": {}
@@ -20,9 +22,19 @@
           "Atlas.DataTypes.dll": {}
         }
       },
+      "Atlas.Json/1.0.0": {
+        "runtime": {
+          "Atlas.Json.dll": {}
+        }
+      },
       "Atlas.Logger/1.0.0": {
         "runtime": {
           "Atlas.Logger.dll": {}
+        }
+      },
+      "Atlas.Minecraft/1.0.0": {
+        "runtime": {
+          "Atlas.Minecraft.dll": {}
         }
       }
     }
@@ -38,7 +50,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Atlas.Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Atlas.Logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Atlas.Minecraft/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

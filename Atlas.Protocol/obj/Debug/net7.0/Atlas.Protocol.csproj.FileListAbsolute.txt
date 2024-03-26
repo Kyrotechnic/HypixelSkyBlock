@@ -24,3 +24,7 @@ C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.Dat
 C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.DataTypes.exe
 C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.DataTypes.dll
 C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.DataTypes.pdb
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.Minecraft.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.Minecraft.pdb
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.Json.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Protocol\bin\Debug\net7.0\Atlas.Json.pdb

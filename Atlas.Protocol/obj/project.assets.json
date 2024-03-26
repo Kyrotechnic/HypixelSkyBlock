@@ -21,6 +21,16 @@
         "runtime": {
           "bin/placeholder/Atlas.Logger.dll": {}
         }
+      },
+      "Atlas.Minecraft/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Atlas.Minecraft.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Atlas.Minecraft.dll": {}
+        }
       }
     }
   },
@@ -34,12 +44,18 @@
       "type": "project",
       "path": "../Atlas.Logger/Atlas.Logger.csproj",
       "msbuildProject": "../Atlas.Logger/Atlas.Logger.csproj"
+    },
+    "Atlas.Minecraft/1.0.0": {
+      "type": "project",
+      "path": "../Atlas.Minecraft/Atlas.Minecraft.csproj",
+      "msbuildProject": "../Atlas.Minecraft/Atlas.Minecraft.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Atlas.DataTypes >= 1.0.0",
-      "Atlas.Logger >= 1.0.0"
+      "Atlas.Logger >= 1.0.0",
+      "Atlas.Minecraft >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -72,6 +88,9 @@
             },
             "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.Logger\\Atlas.Logger.csproj": {
               "projectPath": "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.Logger\\Atlas.Logger.csproj"
+            },
+            "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.Minecraft\\Atlas.Minecraft.csproj": {
+              "projectPath": "C:\\Users\\lukes\\Desktop\\HypixelSkyBlock\\Atlas.Minecraft\\Atlas.Minecraft.csproj"
             }
           }
         }
