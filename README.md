@@ -38,5 +38,7 @@ To setup, fork the repository, download it, download .NET Framework 7.0, and the
 
 Thanks to:
     -> SharpMC! This repository helped me understand how to create a Protocol Implementation
+    
     -> Newtonsoft.Json! They have one of the BEST Json implementations out there!
+    
     -> All of you! Everyone who stars, forks, and contributes to this repo helps so much!
