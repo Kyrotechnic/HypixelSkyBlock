@@ -4,12 +4,14 @@ namespace Atlas.Protocol;
 
 public abstract class Handle
 {
-    public readonly int Id;
+    public int SendId;
+    public int ReadId;
     public readonly PacketMode Mode;
     public readonly PacketDirection Direction;
     public Handle(int id, PacketMode mode, PacketDirection direction)
     {
-        this.Id = id;
+        this.SendId = id;
+        this.ReadId = id;
         this.Mode = mode;
         this.Direction = direction;
 
@@ -26,7 +28,13 @@ public abstract class Handle<T> : Handle where T : Handle<T>
 {
     public Handle(int id, PacketMode mode, PacketDirection direction = PacketDirection.Determine) : base(id, mode, direction)
     {
-        
+
+    }
+
+    public Handle(int sendId, int readId, PacketMode mode, PacketDirection direction = PacketDirection.Determine) : base(sendId, mode, direction)
+    {
+        this.SendId = sendId;
+        this.ReadId = readId;
     }
 
     public T? Read(IProtocol protocol, ServerboundPacket packet)

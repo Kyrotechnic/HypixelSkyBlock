@@ -39,7 +39,7 @@ public abstract class IProtocol
 
             T destine = (T) info.Invoke(null);
 
-            Id = destine.Id;
+            Id = destine.ReadId;
             Mode = destine.Mode;
         }
 

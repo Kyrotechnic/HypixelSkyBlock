@@ -1,0 +1,15 @@
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\bin\Debug\net7.0\Atlas.Tests.exe
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\bin\Debug\net7.0\Atlas.Tests.deps.json
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\bin\Debug\net7.0\Atlas.Tests.runtimeconfig.json
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\bin\Debug\net7.0\Atlas.Tests.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\bin\Debug\net7.0\Atlas.Tests.pdb
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.csproj.AssemblyReference.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.AssemblyInfoInputs.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.AssemblyInfo.cs
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\refint\Atlas.Tests.dll
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.pdb
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\Atlas.Tests.genruntimeconfig.cache
+C:\Users\lukes\Desktop\HypixelSkyBlock\Atlas.Tests\obj\Debug\net7.0\ref\Atlas.Tests.dll

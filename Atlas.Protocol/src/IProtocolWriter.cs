@@ -27,7 +27,7 @@ public abstract class IProtocolWriter
     public ClientboundPacket WritePacket<T>(T packetClass) where T : Handle<T>
     {
         IBuffer buffer = this.GetDefaultBuffer();
-        ClientboundPacket packet = new(packetClass.Id, packetClass.Mode, buffer, packetClass, true);
+        ClientboundPacket packet = new(packetClass.SendId, packetClass.Mode, buffer, packetClass, true);
 
         buffer = this.UseWriter<T>(packetClass, buffer);
         packet.Buffer = buffer;
@@ -37,7 +37,7 @@ public abstract class IProtocolWriter
 
     public IBuffer UseWriter<T>(Handle<T> packetClass, IBuffer buffer) where T : Handle<T>
     {
-        int id = packetClass.Id;
+        int id = packetClass.SendId;
         PacketMode mode = packetClass.Mode;
 
         WriterMember writer = Writers.Find(c => c.Type == typeof(T))!;

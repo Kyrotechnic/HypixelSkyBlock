@@ -1,6 +1,11 @@
 namespace Atlas.Minecraft.Items;
 
-public struct Item
+public class Item
 {
+    public Item(ushort id, byte metadata)
+    {
+
+    }
+
     
 }
