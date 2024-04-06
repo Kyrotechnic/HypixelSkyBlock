@@ -1,4 +1,4 @@
-﻿//Current goal: save memory (and brain power) by bit shifting the id of every item (plus metadata types) into a single short.
+﻿//Current goal: save memory (and brain power) by bit shifting the id of every item (plus metadata types) into a single int.
 
 uint testUnpack = 0;
 

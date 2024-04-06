@@ -1,0 +1,4 @@
+air:0
+stone:1
+granite:1:1
+polished_granite
